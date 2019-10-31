@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CTECH.Cadenas</name>
+    </assembly>
+    <members>
+        <member name="T:CTECH.Cadenas.DatosConexion">
+            <summary>
+            Permite descomponer en parametros un string de conexión.
+            </summary>
+        </member>
+        <member name="P:CTECH.Cadenas.DatosConexion.Database">
+            <summary>
+            Base de datos
+            </summary>
+        </member>
+        <member name="P:CTECH.Cadenas.DatosConexion.Server">
+            <summary>
+            Servidor o instancia de sql
+            </summary>
+        </member>
+        <member name="P:CTECH.Cadenas.DatosConexion.Usuario">
+            <summary>
+            Nombre de usuario
+            </summary>
+        </member>
+        <member name="P:CTECH.Cadenas.DatosConexion.Password">
+            <summary>
+            Password del usuario
+            </summary>
+        </member>
+        <member name="M:CTECH.Cadenas.DatosConexion.#ctor">
+            <summary>
+            Inicializa una nueva instancia de la clase DatosConexion
+            </summary>
+        </member>
+        <member name="M:CTECH.Cadenas.DatosConexion.#ctor(System.String)">
+            <summary>
+            Inicializa una nueva instancia de la clase DatosConexion.
+            Descompone el string de conexión del archivo de configuración.
+            </summary>
+            <param name="pStringConexion">String de conexion del archivo de configuración.</param>
+        </member>
+    </members>
+</doc>

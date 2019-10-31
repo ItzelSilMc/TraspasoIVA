@@ -1,0 +1,74 @@
+
+ALTER VIEW [dbo].[VMX_IVA_TRASL_CXP_02]
+AS
+
+SELECT  VMX.SITE_ID, VMX.BANK_ACCOUNT_ID, VMX.CONTROL_NO, VMX.VENDOR_ID, VMX.CHECK_NO, 
+		VMX.Monto_Pago,--Monto del pago
+		VMX.TC_Pago, -- TC Pago
+		VMX.CURRENCY_ID, --Moneda del pago
+        VMX.VOUCHER_ID, 
+		P.INVOICE_ID, 
+		VMX.CLEARED, VMX.ANIO_CONCILIACION, VMX.MES_CONCILIACION, 
+		PL.LINE_NO, 
+		PL.VAT_AMOUNT, --Impuesto de la linea de la factura
+		PL.VAT_GL_ACCT_ID, 
+        P.TOTAL_AMOUNT, --  Monto de la factura
+		PL.AMOUNT, -- Monto de la línea de factura
+		P.SELL_RATE AS TC_FACTURA, -- Tipo de cambio de la factura
+
+		CASE WHEN P.TOTAL_AMOUNT = 0 THEN 0 ELSE ROUND(VMX.TC_PAGO / P.TOTAL_AMOUNT, 3, 0) END AS PORC_PAGO, 
+		
+		CASE WHEN P.TOTAL_AMOUNT = 0 THEN 0 ELSE ROUND(VMX.TC_PAGO / P.TOTAL_AMOUNT * PL.VAT_AMOUNT, 3, 0) END AS IVA_TRASLADO_NATIVO, 
+
+		ROUND(VMX.Monto_Pago2 / P.TOTAL_AMOUNT * PL.VAT_AMOUNT * P.SELL_RATE, 2, 0) AS IVA_TRASLADO_MXN_FACT, 
+		
+        CASE WHEN (P.TOTAL_AMOUNT * PL.VAT_AMOUNT * VMX.TC_Pago) = 0 THEN 0 
+			 ELSE ROUND(CASE WHEN VMX.TC_PAGO = 1 THEN VMX.Monto_Pago  
+							 ELSE VMX.Monto_Pago2 END / P.TOTAL_AMOUNT * PL.VAT_AMOUNT * VMX.TC_Pago, 2, 0) 
+		END AS IVA_TRASLADO_MXN_PAGO,
+
+        CASE WHEN (P.TOTAL_AMOUNT * PL.VAT_AMOUNT * VMX.TC_Pago) = 0 THEN 0 
+			 ELSE ROUND((CASE WHEN VMX.TC_PAGO = 1 THEN VMX.Monto_Pago  
+							  ELSE VMX.Monto_Pago2 
+						END) / P.TOTAL_AMOUNT * PL.VAT_AMOUNT * VMX.TC_Pago, 2, 0) 
+		END
+		-CASE WHEN (P.TOTAL_AMOUNT * PL.VAT_AMOUNT * P.SELL_RATE)= 0 THEN 0 
+			  ELSE ROUND(VMX.Monto_Pago2 / P.TOTAL_AMOUNT * PL.VAT_AMOUNT * P.SELL_RATE, 2, 0) 
+		 END  AS GANANCIA_PERDIDA, 
+
+                     CASE WHEN (CASE WHEN (P.TOTAL_AMOUNT * PL.VAT_AMOUNT * P.SELL_RATE) = 0 THEN 0 ELSE ROUND(VMX.Monto_Pago2 / P.TOTAL_AMOUNT * PL.VAT_AMOUNT * P.SELL_RATE, 2, 0) END
+                      - CASE WHEN (P.TOTAL_AMOUNT * PL.VAT_AMOUNT * VMX.TC_Pago) = 0 THEN 0 ELSE ROUND(VMX.Monto_Pago / P.TOTAL_AMOUNT * PL.VAT_AMOUNT * VMX.TC_Pago, 2, 0)END) < 0 THEN
+                          (SELECT     GL_ACCOUNT_ID
+                            FROM          GL_INTERFACE_ACCT
+                            WHERE      (INTERFACE_ID = 'REALIZED_GAIN') AND (SITE_ID = P.SITE_ID)) ELSE
+                          (SELECT     GL_ACCOUNT_ID
+                            FROM          GL_INTERFACE_ACCT
+                            WHERE      (INTERFACE_ID = 'REALIZED_LOSS') AND (SITE_ID = P.SITE_ID)) END AS CUENTA_PER_GANANCIA, 
+
+
+                            VMX.ANIO_POSTEO, VMX.MES_POSTEO,
+
+                            ROUND(CASE	WHEN (P.TOTAL_AMOUNT * PL.VAT_AMOUNT * VMX.TC_Pago) = 0 THEN 0 
+										ELSE ROUND(	CASE WHEN VMX.TC_PAGO = 1 THEN VMX.Monto_Pago 
+														 ELSE VMX.Monto_Pago2
+													END 
+									/ P.TOTAL_AMOUNT * PL.VAT_AMOUNT * VMX.TC_Pago, 2, 0) 
+									END
+									/CASE WHEN PL.VAT_PERCENT = 0 THEN 1 
+										  ELSE round((PL.VAT_PERCENT/100), 2, 0)
+									END,2) Monto_Deposito_Linea,
+
+							CASE WHEN VMX.TC_PAGO = 1 THEN VMX.Monto_Pago  
+								 ELSE VMX.Monto_Pago2 END 
+							* VMX.TC_Pago Monto_Pago2 
+							,ISNULL(VMX.PAYMENT_NO,VMX.CHECK_NO)PAYMENT_NO
+							,ISNULL(P.POSTING_DATE,P.CREATE_DATE) FECHA_FACTURA
+							,VMX.FECHA_PAGO,P.CURRENCY_ID Moneda_Factura
+FROM         dbo.VMX_IVA_TRASL_CXP_01 AS VMX INNER JOIN
+                      dbo.PAYABLE AS P ON VMX.VOUCHER_ID = P.VOUCHER_ID AND VMX.SITE_ID = P.SITE_ID INNER JOIN
+                      dbo.PAYABLE_LINE AS PL ON P.VOUCHER_ID = PL.VOUCHER_ID
+
+
+GO
+
+

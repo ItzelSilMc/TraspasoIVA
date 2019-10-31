@@ -1,0 +1,497 @@
+C:\Lib_desarrollo\CTech\Clientes\ERP\7.0.0\Proyectos\Regionalizacion\TraspasoIVA\trunk\src\bin\Debug\VKIVA.exe.config
+C:\Lib_desarrollo\CTech\Clientes\ERP\7.0.0\Proyectos\Regionalizacion\TraspasoIVA\trunk\src\bin\Debug\VKIVA.exe
+C:\Lib_desarrollo\CTech\Clientes\ERP\7.0.0\Proyectos\Regionalizacion\TraspasoIVA\trunk\src\bin\Debug\VKIVA.pdb
+C:\Lib_desarrollo\CTech\Clientes\ERP\7.0.0\Proyectos\Regionalizacion\TraspasoIVA\trunk\src\bin\Debug\About.dll
+C:\Lib_desarrollo\CTech\Clientes\ERP\7.0.0\Proyectos\Regionalizacion\TraspasoIVA\trunk\src\bin\Debug\CTECH.Acceso_a_Datos.dll
+C:\Lib_desarrollo\CTech\Clientes\ERP\7.0.0\Proyectos\Regionalizacion\TraspasoIVA\trunk\src\bin\Debug\CTECH.Cadenas.dll
+C:\Lib_desarrollo\CTech\Clientes\ERP\7.0.0\Proyectos\Regionalizacion\TraspasoIVA\trunk\src\bin\Debug\CTECH.Directorios.dll
+C:\Lib_desarrollo\CTech\Clientes\ERP\7.0.0\Proyectos\Regionalizacion\TraspasoIVA\trunk\src\bin\Debug\CTECH.Seguridad.dll
+C:\Lib_desarrollo\CTech\Clientes\ERP\7.0.0\Proyectos\Regionalizacion\TraspasoIVA\trunk\src\bin\Debug\CTECHSEGREG.dll
+C:\Lib_desarrollo\CTech\Clientes\ERP\7.0.0\Proyectos\Regionalizacion\TraspasoIVA\trunk\src\bin\Debug\UtilidadesX.dll
+C:\Lib_desarrollo\CTech\Clientes\ERP\7.0.0\Proyectos\Regionalizacion\TraspasoIVA\trunk\src\bin\Debug\office.dll
+C:\Lib_desarrollo\CTech\Clientes\ERP\7.0.0\Proyectos\Regionalizacion\TraspasoIVA\trunk\src\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Lib_desarrollo\CTech\Clientes\ERP\7.0.0\Proyectos\Regionalizacion\TraspasoIVA\trunk\src\bin\Debug\office.xml
+C:\Lib_desarrollo\CTech\Clientes\ERP\7.0.0\Proyectos\Regionalizacion\TraspasoIVA\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmBuscador.resources
+C:\Lib_desarrollo\CTech\Clientes\ERP\7.0.0\Proyectos\Regionalizacion\TraspasoIVA\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmCatCuentas.resources
+C:\Lib_desarrollo\CTech\Clientes\ERP\7.0.0\Proyectos\Regionalizacion\TraspasoIVA\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmCDescuentos.resources
+C:\Lib_desarrollo\CTech\Clientes\ERP\7.0.0\Proyectos\Regionalizacion\TraspasoIVA\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles_Mov_linea.resources
+C:\Lib_desarrollo\CTech\Clientes\ERP\7.0.0\Proyectos\Regionalizacion\TraspasoIVA\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles_Mov_Cabecera.resources
+C:\Lib_desarrollo\CTech\Clientes\ERP\7.0.0\Proyectos\Regionalizacion\TraspasoIVA\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles.resources
+C:\Lib_desarrollo\CTech\Clientes\ERP\7.0.0\Proyectos\Regionalizacion\TraspasoIVA\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmPrincipal.resources
+C:\Lib_desarrollo\CTech\Clientes\ERP\7.0.0\Proyectos\Regionalizacion\TraspasoIVA\trunk\src\obj\x86\Debug\VMXTRASPIVA.Properties.Resources.resources
+C:\Lib_desarrollo\CTech\Clientes\ERP\7.0.0\Proyectos\Regionalizacion\TraspasoIVA\trunk\src\obj\x86\Debug\VMXTRASPIVA.csproj.GenerateResource.Cache
+C:\Lib_desarrollo\CTech\Clientes\ERP\7.0.0\Proyectos\Regionalizacion\TraspasoIVA\trunk\src\obj\x86\Debug\VKIVA.exe
+C:\Lib_desarrollo\CTech\Clientes\ERP\7.0.0\Proyectos\Regionalizacion\TraspasoIVA\trunk\src\obj\x86\Debug\VKIVA.pdb
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\VKIVA.exe.config
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\VKIVA.exe
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\VKIVA.pdb
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\About.dll
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Acceso_a_Datos.dll
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Cadenas.dll
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Configuracion.dll
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Directorios.dll
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Log.dll
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Seguridad.dll
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECHSEGREG.dll
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\stdole.dll
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\About.pdb
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Acceso_a_Datos.pdb
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Acceso_a_Datos.xml
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Cadenas.pdb
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Cadenas.xml
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Directorios.pdb
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Directorios.xml
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Log.pdb
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Configuracion.pdb
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Seguridad.pdb
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Seguridad.xml
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECHSEGREG.pdb
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.csprojResolveAssemblyReference.cache
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmBuscador.resources
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmCatCuentas.resources
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmCatCuentasRet.resources
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmCDescuentos.resources
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmCRetenciones.resources
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles_Mov_linea.resources
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles_Mov_Cabecera.resources
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles.resources
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmPrincipal.resources
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmProcesando.resources
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.Properties.Resources.resources
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.csproj.GenerateResource.Cache
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VKIVA.exe.licenses
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VKIVA.exe
+D:\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VKIVA.pdb
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.csprojResolveAssemblyReference.cache
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmBuscador.resources
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmCatCuentas.resources
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmCatCuentasRet.resources
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmCDescuentos.resources
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmCRetenciones.resources
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles_Mov_linea.resources
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles_Mov_Cabecera.resources
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles.resources
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmPrincipal.resources
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmProcesando.resources
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.Properties.Resources.resources
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.csproj.GenerateResource.Cache
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VKIVA.exe.licenses
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.csproj.CoreCompileInputs.cache
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VKIVA.exe
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VKIVA.pdb
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.csproj.ResolveComReference.cache
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\VKIVA.exe.config
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\VKIVA.exe
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\VKIVA.pdb
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\About.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Acceso_a_Datos.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Cadenas.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Configuracion.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Directorios.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Log.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Seguridad.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECHSEGREG.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\FlashControlV71.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\stdole.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\About.pdb
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Acceso_a_Datos.pdb
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Acceso_a_Datos.xml
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Cadenas.pdb
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Cadenas.xml
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Directorios.pdb
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Directorios.xml
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Log.pdb
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Configuracion.pdb
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Seguridad.pdb
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECH.Seguridad.xml
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\CTECHSEGREG.pdb
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.7\Proyecto\trunk\src\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\VKIVA.exe.config
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.csproj.ResolveComReference.cache
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\obj\x86\Debug\VKIVA.exe
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\obj\x86\Debug\VKIVA.pdb
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\VKIVA.exe
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\VKIVA.pdb
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\About.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CTECH.Acceso_a_Datos.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CTECH.Cadenas.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CTECH.Configuracion.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CTECH.Directorios.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CTECH.Log.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CTECH.Seguridad.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CTECHSEGREG.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\FlashControlV71.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\stdole.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\About.pdb
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CTECH.Acceso_a_Datos.pdb
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CTECH.Acceso_a_Datos.xml
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CTECH.Cadenas.pdb
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CTECH.Cadenas.xml
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CTECH.Directorios.pdb
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CTECH.Directorios.xml
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CTECH.Log.pdb
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CTECH.Configuracion.pdb
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CTECH.Seguridad.pdb
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CTECH.Seguridad.xml
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\CTECHSEGREG.pdb
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.csprojResolveAssemblyReference.cache
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmBuscador.resources
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmCatCuentas.resources
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmCatCuentasRet.resources
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmCDescuentos.resources
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmCRetenciones.resources
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles_Mov_linea.resources
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles_Mov_Cabecera.resources
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles.resources
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmPrincipal.resources
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.frmProcesando.resources
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.Properties.Resources.resources
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\obj\x86\Debug\VMXTRASPIVA.csproj.GenerateResource.Cache
+C:\Users\VES-LAP17\VES\Proyectos\Regionalizacion\Reg712-800\Traspaso de IVA\TraspasoIVA v1.0.0.12\Proyecto\trunk\src\obj\x86\Debug\VKIVA.exe.licenses
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\VKIVA.exe.config
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\VKIVA.exe
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\VKIVA.pdb
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\ConfiguracionSR.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Acceso_a_Datos.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Cadenas.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Configuracion.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Directorios.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Log.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Seguridad.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECHSEGREG.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\FlashControlV71.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\office.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\stdole.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\ConfiguracionSR.pdb
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Acceso_a_Datos.pdb
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Acceso_a_Datos.xml
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Cadenas.pdb
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Cadenas.xml
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Configuracion.pdb
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Directorios.pdb
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Directorios.xml
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Log.pdb
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Seguridad.pdb
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Seguridad.xml
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECHSEGREG.pdb
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\office.xml
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.csprojResolveAssemblyReference.cache
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.csproj.ResolveComReference.cache
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.frmBuscador.resources
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.frmCatCuentas.resources
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.frmCatCuentasRet.resources
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.frmCDescuentos.resources
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.frmCRetenciones.resources
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles_Mov_linea.resources
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles_Mov_Cabecera.resources
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles.resources
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.frmPerdidaGanancia.resources
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.frmPrincipal.resources
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.frmProcesando.resources
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.Properties.Resources.resources
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.csproj.GenerateResource.Cache
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VKIVA.exe.licenses
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VKIVA.exe
+C:\Users\VES-LAP17\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VKIVA.pdb
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\VKIVA.exe.config
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.csproj.ResolveComReference.cache
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VKIVA.exe
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VKIVA.pdb
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\VKIVA.exe
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\VKIVA.pdb
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\ConfiguracionSR.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Acceso_a_Datos.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Cadenas.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Configuracion.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Directorios.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Log.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Seguridad.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECHSEGREG.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.Shared.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\FlashControlV71.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\office.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\stdole.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\ShockwaveFlashObjects.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\ConfiguracionSR.pdb
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Acceso_a_Datos.pdb
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Acceso_a_Datos.xml
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Cadenas.pdb
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Cadenas.xml
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Configuracion.pdb
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Directorios.pdb
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Directorios.xml
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Log.pdb
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Seguridad.pdb
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECH.Seguridad.xml
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\CTECHSEGREG.pdb
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\bin\Debug\office.xml
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.csprojResolveAssemblyReference.cache
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.frmBuscador.resources
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.frmCatCuentas.resources
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.frmCatCuentasRet.resources
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.frmCDescuentos.resources
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.frmCRetenciones.resources
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles_Mov_linea.resources
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles_Mov_Cabecera.resources
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles.resources
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.frmPerdidaGanancia.resources
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.frmPrincipal.resources
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.frmProcesando.resources
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.Properties.Resources.resources
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VMXTRASPIVA.csproj.GenerateResource.Cache
+C:\source\repos\TRASPASODEIVA-VISUAL8\src\obj\x86\Debug\VKIVA.exe.licenses
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\VKIVA.exe.config
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\obj\x86\Debug\VMXTRASPIVA.csproj.ResolveComReference.cache
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\obj\x86\Debug\VKIVA.exe
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\obj\x86\Debug\VKIVA.pdb
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\VKIVA.exe
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\VKIVA.pdb
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\ConfiguracionSR.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CrystalDecisions.Shared.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\FlashControlV71.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\office.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\stdole.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\ShockwaveFlashObjects.dll
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\ConfiguracionSR.pdb
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CTECH.Acceso_a_Datos.pdb
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CTECH.Acceso_a_Datos.xml
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CTECH.Cadenas.pdb
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CTECH.Cadenas.xml
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CTECH.Configuracion.pdb
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CTECH.Directorios.pdb
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CTECH.Directorios.xml
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CTECH.Log.pdb
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CTECH.Seguridad.pdb
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CTECH.Seguridad.xml
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\CTECHSEGREG.pdb
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\bin\Debug\office.xml
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\obj\x86\Debug\VMXTRASPIVA.csprojResolveAssemblyReference.cache
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmBuscador.resources
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmCatCuentas.resources
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmCatCuentasRet.resources
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmCDescuentos.resources
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmCRetenciones.resources
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles_Mov_linea.resources
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles_Mov_Cabecera.resources
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles.resources
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmPerdidaGanancia.resources
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmPrincipal.resources
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmProcesando.resources
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\obj\x86\Debug\VMXTRASPIVA.Properties.Resources.resources
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\obj\x86\Debug\VMXTRASPIVA.csproj.GenerateResource.Cache
+C:\source\repos\TRASPASODEIVA-VISUAL8\Codigo\src\obj\x86\Debug\VKIVA.exe.licenses
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\VKIVA.exe.config
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\VKIVA.exe
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\VKIVA.pdb
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\About.dll
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\ConfiguracionSR.dll
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Acceso_a_Datos.dll
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Cadenas.dll
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Configuracion.dll
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Directorios.dll
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Log.dll
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Seguridad.dll
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECHSEGREG.dll
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\About.pdb
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\ConfiguracionSR.pdb
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Acceso_a_Datos.pdb
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Acceso_a_Datos.xml
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Cadenas.pdb
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Cadenas.xml
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Configuracion.pdb
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Directorios.pdb
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Directorios.xml
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Log.pdb
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Seguridad.pdb
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Seguridad.xml
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECHSEGREG.pdb
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.csproj.ResolveComReference.cache
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmBuscador.resources
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmCatCuentas.resources
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmCatCuentasRet.resources
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmCDescuentos.resources
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmCRetenciones.resources
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles_Mov_linea.resources
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles_Mov_Cabecera.resources
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles.resources
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmPerdidaGanancia.resources
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmPrincipal.resources
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmProcesando.resources
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.Properties.Resources.resources
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.csproj.GenerateResource.cache
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VKIVA.exe.licenses
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.csproj.CoreCompileInputs.cache
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.csproj.CopyComplete
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VKIVA.exe
+C:\Repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VKIVA.pdb
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\VKIVA.exe.config
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\VKIVA.exe
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\VKIVA.pdb
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\About.dll
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\C1.Win.C1TrueDBGrid.4.dll
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\ConfiguracionSR.dll
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Acceso_a_Datos.dll
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Cadenas.dll
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Configuracion.dll
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Directorios.dll
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Log.dll
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Seguridad.dll
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECHSEGREG.dll
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\FlashControlV71.dll
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\office.dll
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\stdole.dll
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\ShockwaveFlashObjects.dll
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\About.pdb
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\C1.Win.C1TrueDBGrid.4.xml
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\ConfiguracionSR.pdb
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Acceso_a_Datos.pdb
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Acceso_a_Datos.xml
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Cadenas.pdb
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Cadenas.xml
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Configuracion.pdb
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Directorios.pdb
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Directorios.xml
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Log.pdb
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Seguridad.pdb
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECH.Seguridad.xml
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\CTECHSEGREG.pdb
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\bin\Debug\office.xml
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.csproj.ResolveComReference.cache
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmBuscador.resources
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmCatCuentas.resources
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmCatCuentasRet.resources
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmCDescuentos.resources
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmCRetenciones.resources
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles_Mov_linea.resources
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles_Mov_Cabecera.resources
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles.resources
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmPerdidaGanancia.resources
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmPrincipal.resources
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmProcesando.resources
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.Properties.Resources.resources
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.csproj.GenerateResource.Cache
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VKIVA.exe.licenses
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VKIVA.exe
+C:\source\repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VKIVA.pdb
+C:\repos\SR800_Traspaso_De_IVA\Codigo\src\obj\x86\Debug\VMXTRASPIVA.csprojAssemblyReference.cache
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\obj\x86\Debug\VMXTRASPIVA.csproj.ResolveComReference.cache
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmBuscador.resources
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmCatCuentas.resources
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmCatCuentasRet.resources
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmCDescuentos.resources
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmCRetenciones.resources
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles_Mov_linea.resources
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles_Mov_Cabecera.resources
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmDetalles.resources
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmPerdidaGanancia.resources
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmPrincipal.resources
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\obj\x86\Debug\VMXTRASPIVA.frmProcesando.resources
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\obj\x86\Debug\VMXTRASPIVA.Properties.Resources.resources
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\obj\x86\Debug\VMXTRASPIVA.csproj.GenerateResource.cache
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\obj\x86\Debug\VKIVA.exe.licenses
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\obj\x86\Debug\VMXTRASPIVA.csproj.CoreCompileInputs.cache
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\bin\Debug\VKIVA.exe.config
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\bin\Debug\VKIVA.exe
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\bin\Debug\VKIVA.pdb
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\bin\Debug\ClosedXML.dll
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\bin\Debug\ConfiguracionSR.dll
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\bin\Debug\ExcelNumberFormat.dll
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\bin\Debug\FastMember.dll
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\bin\Debug\ClosedXML.pdb
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\bin\Debug\ClosedXML.xml
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\bin\Debug\ConfiguracionSR.pdb
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\bin\Debug\ExcelNumberFormat.xml
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\obj\x86\Debug\VMXTRASPIVA.csproj.CopyComplete
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\obj\x86\Debug\VKIVA.exe
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\obj\x86\Debug\VKIVA.pdb
+C:\Users\VES-LAP02\Downloads\SR800_Traspaso_De_IVA-master\SR800_Traspaso_De_IVA-master\Codigo\src\obj\x86\Debug\VMXTRASPIVA.csprojAssemblyReference.cache

@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CTECH.Directorios</name>
+    </assembly>
+    <members>
+        <member name="T:CTECH.Directorios.Regionalizacion.ArchivoConfiguracion">
+            <summary>
+            Permite establecer la ruta y configuracion del archivo de configuracion de CTECH.
+            </summary>
+        </member>
+        <member name="P:CTECH.Directorios.Regionalizacion.ArchivoConfiguracion.EjecucionLocal">
+            <summary>
+            Indica si la aplicacion se ejecuta local o remotamente.
+            </summary>
+        </member>
+        <member name="P:CTECH.Directorios.Regionalizacion.ArchivoConfiguracion.RutaArchivoConfiguracion">
+            <summary>
+            Obtiene la ruta del archivo de configuracion de ctech.
+            </summary>
+        </member>
+        <member name="M:CTECH.Directorios.Regionalizacion.ArchivoConfiguracion.#ctor">
+            <summary>
+            Constructor que establece si la aplicacion esta corriendo de manera local o remota.
+            </summary>
+        </member>
+        <member name="M:CTECH.Directorios.Regionalizacion.ArchivoConfiguracion.buscarArchivoConfiguracion">
+            <summary>
+            Busca el archivo de configuración de ctech con lo parametros 
+            de configuracion para las aplicaciones de regionalizacion.
+            </summary>
+            <returns>True cuando ecuentra el archivo de configuración</returns>
+        </member>
+        <member name="M:CTECH.Directorios.Regionalizacion.ArchivoConfiguracion.existeArchivo(System.String)">
+            <summary>
+            Indica si existe el archivo VMXCONFREG.exe en la ruta especificada.
+            </summary>
+            <param name="pPath">Ruta donde se buscara le archivo</param>
+            <returns>True archivo encontrado</returns>
+        </member>
+        <member name="M:CTECH.Directorios.Regionalizacion.ArchivoConfiguracion.archivoLocal">
+            <summary>
+            Obtiene el valor de la variable de entorno llamada Path de la computadora donde se
+            esta ejecutando la aplicacion.
+             Busca dentro de cada una de las carpetas el archivo de configuracion
+             VMXCONFREG.exe
+            </summary>
+            <returns>True cuando encuentra el archivo de configuración</returns>
+        </member>
+        <member name="M:CTECH.Directorios.Regionalizacion.ArchivoConfiguracion.archivoRemoto">
+            <summary>
+            Obtiene la ruta del archivo remoto de configuracion
+            Ejemplo:
+                \\computername\Configuracion\
+            </summary>
+            <returns>True cuando encuentra el archivo</returns>
+        </member>
+        <member name="T:CTECH.Directorios.LogErrores">
+            <summary>
+            Permite generar un archivo de texto con errores de la aplcación.
+            </summary>
+        </member>
+        <member name="M:CTECH.Directorios.LogErrores.escribir(System.String,System.String,System.String)">
+            <summary>
+            Permite escribir los errores de la aplicación en el archivo LogErrores.txt.
+            Este archivo se genera en la ruta donde esta corriendo la aplicación.
+            </summary>
+            <param name="pclase">Clase donde se genero el error.</param>
+            <param name="pmetodo">Metodo que genero el error.</param>
+            <param name="ptexto">Detalle de la expcion generada.</param>
+        </member>
+        <member name="T:CTECH.Directorios.Configuracion">
+            <summary>
+            Clase diseñanada para obtener información de configuracion de aplicaciones.
+            </summary>
+        </member>
+        <member name="M:CTECH.Directorios.Configuracion.obtenerStringsConexion(System.String)">
+            <summary>
+            Permite obtener las cadenas de conexión configuradas en el archivo de configuración.
+            </summary>
+            <param name="pRuta">Ruta donde se encuentra el archivo de configuración</param>
+            <returns>Un data table con las cadenas de conexión.</returns>
+        </member>
+        <member name="M:CTECH.Directorios.Configuracion.obtenerStringsConexion">
+            <summary>
+            Permite obtener los string de conexión del archivo de configuracion.
+            </summary>
+            <returns>Data Table con los string de conexion</returns>
+        </member>
+        <member name="M:CTECH.Directorios.Configuracion.escribirConnectionString(System.String,System.String)">
+            <summary>
+            Permite escribir una nueva cadena de conexion en la seccion "connectionStrings".
+            Se toma el archivo local Application.ExecutablePath
+            </summary>
+            <param name="pName">Nombre de la cadena de conexion</param>
+            <param name="pConnString">String de conexion</param>
+        </member>
+        <member name="M:CTECH.Directorios.Configuracion.eliminarConnectionStrings(System.String)">
+            <summary>
+            Permite eliminar un string de conexion del archivo de configuracion.
+            Se toma el archivo local Application.ExecutablePath
+            </summary>
+            <param name="pName">Nombre del string de conexion a eliminar</param>
+        </member>
+    </members>
+</doc>

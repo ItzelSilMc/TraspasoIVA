@@ -1,0 +1,4182 @@
+--------- Eror del sistema ------------
+Fecha: 09/10/2019 03:39:41 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 09/10/2019 03:39:49 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 09/10/2019 03:56:38 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 10/10/2019 09:38:04 a. m.
+Clase: frmPrincipal
+Metodo: btnExportarExcel_Click
+Detalle: Referencia a objeto no establecida como instancia de un objeto.
+
+--------- Eror del sistema ------------
+Fecha: 21/10/2019 01:40:43 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 21/10/2019 01:41:30 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 21/10/2019 01:51:02 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 21/10/2019 01:52:22 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 21/10/2019 01:52:24 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 21/10/2019 01:52:45 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 21/10/2019 01:55:19 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 21/10/2019 01:55:19 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 21/10/2019 01:55:19 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 21/10/2019 01:55:19 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 09:26:20 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 11:40:37 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 12:00:29 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 12:17:30 p. m.
+Clase: frmPrincipal
+Metodo: btnExportarExcel_Click
+Detalle: Excepci?n de HRESULT: 0x800AC472
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 12:41:32 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 12:57:43 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 01:04:46 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 01:13:30 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 01:13:31 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 01:13:32 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 01:13:32 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 01:13:34 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 01:13:36 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 01:13:36 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 01:13:37 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 01:13:38 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 01:53:41 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 01:53:49 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 01:53:51 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 01:53:52 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 01:55:48 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 01:56:33 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 01:56:34 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 01:56:34 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 01:56:34 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 03:06:50 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 03:11:17 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 03:11:19 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 03:11:19 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 03:11:21 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 03:11:23 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 03:11:24 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 03:11:24 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 03:11:24 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:07:46 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:07:48 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:11:47 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:11:48 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:11:50 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:27:25 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:27:26 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:27:26 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:27:27 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:28:15 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: Error en el nivel de transporte al enviar la solicitud al servidor. (provider: TCP Provider, error: 0 - Se ha forzado la interrupci?n de una conexi?n existente por el host remoto.)
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:28:33 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:28:35 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:28:36 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:28:37 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:28:39 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:28:46 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:28:48 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:28:49 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:28:49 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:30:42 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:38:57 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:38:59 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:39:00 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:39:01 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:39:04 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:39:04 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:39:04 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 04:39:05 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 05:09:02 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 22/10/2019 05:32:08 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 09:26:47 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 11:17:01 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 11:17:36 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 11:17:40 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 11:17:44 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 11:20:39 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 11:20:40 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 11:20:40 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 11:20:40 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 11:20:40 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 11:22:29 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 12:08:38 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 12:11:00 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 12:11:00 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 12:11:01 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 12:11:01 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 12:11:03 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 12:11:04 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 12:11:04 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 12:11:04 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 12:11:04 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 01:01:32 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 01:45:00 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 03:35:20 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 03:39:58 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:15:29 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:15:30 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:15:32 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:15:32 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:15:34 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:15:42 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:15:42 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:15:42 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:15:42 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:16:15 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:16:16 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:16:17 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:16:17 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:16:18 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:19:33 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:19:33 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:19:33 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:19:34 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:19:46 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:22:34 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:26:27 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:26:52 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:27:12 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:30:22 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:30:29 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:42:50 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:42:50 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:42:52 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:42:52 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:42:53 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:43:03 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:43:03 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:43:03 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 04:43:04 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 05:03:46 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 05:04:12 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 05:04:12 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 05:04:20 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 05:04:20 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 05:04:21 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 05:04:23 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 05:04:23 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 05:04:23 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 05:04:23 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 05:05:14 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 05:06:00 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 05:06:00 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 05:06:30 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 05:06:30 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 05:06:31 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 05:06:33 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 05:06:33 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 05:06:33 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 05:06:33 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 05:07:06 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 23/10/2019 05:08:03 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 09:29:37 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 09:33:44 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 10:44:05 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 10:48:40 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 10:54:28 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 11:02:04 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 11:42:19 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 11:43:53 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 11:45:37 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 11:50:20 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 11:51:33 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 11:56:47 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 11:58:14 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 11:58:16 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 11:58:24 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 11:58:24 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 11:58:32 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 11:59:07 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 11:59:07 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 11:59:08 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 11:59:08 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 01:29:37 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 01:30:52 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 01:35:45 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 01:36:21 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 01:38:09 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 03:20:41 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 03:24:15 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 03:24:40 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 03:29:14 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 03:30:46 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: Error en el operador Like: el patr?n de cadena '%4961000077% ' no es v?lido.
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 03:32:00 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 03:32:55 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: Error en el operador Like: el patr?n de cadena '%4961000077% ' no es v?lido.
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 03:33:51 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 03:35:58 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 03:40:58 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 03:41:42 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: Error en el operador Like: el patr?n de cadena '%091900024% ' no es v?lido.
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 03:42:30 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 03:46:36 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: Error en el operador Like: el patr?n de cadena '%091900024% ' no es v?lido.
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 03:46:41 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 04:03:35 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 04:04:36 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 04:06:40 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 04:10:18 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 04:11:32 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 04:37:00 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 04:39:01 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 04:52:00 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 04:53:16 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 05:15:40 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 05:16:16 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 05:18:12 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 05:20:10 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 05:26:09 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 05:26:30 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 05:27:21 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 05:32:25 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 05:32:56 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 05:35:08 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 05:35:32 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 05:38:12 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 05:38:51 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 05:49:04 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 05:51:22 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 05:51:22 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 05:51:22 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 05:51:23 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 05:51:31 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 05:51:32 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 05:51:33 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 05:51:33 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 05:51:33 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 9 FECHA: 2019/09/29 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 05:58:19 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 06:00:06 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 06:02:44 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 06:04:29 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 24/10/2019 06:05:04 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 09:46:28 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 09:47:19 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 09:49:19 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 09:50:31 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 09:58:22 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: No se puede encontrar la columna [NAME].
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 09:58:28 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 09:58:28 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 09:58:29 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 09:58:29 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 09:58:30 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 09:58:31 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 09:58:32 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 09:58:32 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 09:58:32 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 09:58:38 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: No se puede encontrar la columna [NAME].
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:11:14 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:13:15 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:16:01 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:16:43 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:18:01 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:19:01 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:20:16 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:20:52 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:22:21 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:28:13 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:37:55 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:39:26 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:40:30 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:48:39 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:48:39 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:48:40 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:48:40 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:48:41 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:48:41 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:48:41 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:48:41 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:48:42 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:50:27 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:50:27 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:50:35 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:50:35 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:50:36 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:50:36 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:50:36 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:50:37 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:50:37 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:50:48 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: No se puede realizar la operaci?n 'Like' en System.Int32 y System.String.
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:52:11 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:52:11 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:52:11 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:52:11 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:52:19 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:52:19 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:52:19 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:52:19 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:52:20 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:54:24 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: No se puede realizar la operaci?n 'Like' en System.Int32 y System.String.
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:54:46 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:54:46 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:54:54 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:54:55 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:55:02 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:55:03 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:55:03 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:55:03 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:55:03 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:56:39 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: No se puede realizar la operaci?n 'Like' en System.Int32 y System.String.
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:57:00 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:57:00 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:57:01 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:57:01 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:57:02 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:57:02 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:57:03 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:57:03 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:57:03 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:57:43 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:57:43 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:57:44 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:57:44 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:57:45 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:57:46 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:57:46 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:57:46 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:57:46 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 10:58:08 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:00:46 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:02:45 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:04:10 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:07:25 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:10:20 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:10:20 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:10:21 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:10:21 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:10:22 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:10:22 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:10:22 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:10:22 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:10:23 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:10:47 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:10:47 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:10:47 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:10:47 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:10:48 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:10:49 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:10:49 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:10:49 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:10:49 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:18:23 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:18:23 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:18:24 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:18:24 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:18:25 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:18:25 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:18:26 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:18:26 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:18:26 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:18:42 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:18:42 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:18:43 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:18:43 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:18:44 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:18:44 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:18:44 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:18:44 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:18:45 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:23:54 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:24:54 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:28:30 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:28:59 a. m.
+Clase: frmPrincipal
+Metodo: DataTable porTraspasar()
+Detalle: NoParametro: 6. Error: Message: The definition of object 'PRC_POLIZAS_POR_TRASPASAR_CXC_DET' has changed since it was compiled.. InnerException: . Source: .Net SqlClient Data Provider.
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:29:22 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:30:01 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:31:31 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:31:31 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:31:32 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:31:32 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:31:33 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:31:34 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:31:34 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:31:34 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:31:34 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:31:46 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:31:46 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:31:47 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:31:47 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:31:48 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:31:49 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:31:49 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:31:49 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:31:49 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:32:16 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: No se puede realizar la operaci?n 'Like' en System.Int32 y System.String.
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:32:23 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:32:23 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:32:24 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:32:24 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:32:25 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:32:25 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:32:25 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:32:25 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:32:26 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:33:18 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: No se puede encontrar la columna [CRD.CONTROL_NO].
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:33:20 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:33:20 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:33:21 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:33:21 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:33:22 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:33:23 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:33:23 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:33:23 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:33:23 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:38:03 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:44:44 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:45:58 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:46:39 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:46:39 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:46:40 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:46:40 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:46:41 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:46:48 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: Las propiedades de <target>.CONTROL_NO y <source>.CONTROL_NO est?n en conflicto: la propiedad DataType no coincide.
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:46:52 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:46:52 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:46:53 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:46:53 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:46:54 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:46:56 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: Las propiedades de <target>.CONTROL_NO y <source>.CONTROL_NO est?n en conflicto: la propiedad DataType no coincide.
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:47:16 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:47:16 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:47:17 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:47:17 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:47:18 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:47:28 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: Las propiedades de <target>.CONTROL_NO y <source>.CONTROL_NO est?n en conflicto: la propiedad DataType no coincide.
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:48:04 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:48:17 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:48:18 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:48:18 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:48:20 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:48:51 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: Las propiedades de <target>.CONTROL_NO y <source>.CONTROL_NO est?n en conflicto: la propiedad DataType no coincide.
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:49:02 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:49:17 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:49:21 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:49:22 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:49:24 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:51:28 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:51:30 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:51:31 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:51:31 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:51:32 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:51:42 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:51:43 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:51:43 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:51:43 a. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:52:58 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:57:19 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 11:58:04 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:01:34 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:01:59 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:02:00 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:02:01 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:02:01 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:02:02 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:02:15 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: Las propiedades de <target>.CONTROL_NO y <source>.CONTROL_NO est?n en conflicto: la propiedad DataType no coincide.
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:03:43 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:05:27 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:06:01 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:06:06 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:06:07 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:06:07 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:06:08 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:06:20 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: Las propiedades de <target>.CONTROL_NO y <source>.CONTROL_NO est?n en conflicto: la propiedad DataType no coincide.
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:10:02 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:16:48 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:17:10 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: No se puede encontrar la columna BANK_ACCOUNT_ID.
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:17:41 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:18:33 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:19:24 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:19:26 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:19:27 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:19:27 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:19:28 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:19:38 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:19:38 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:19:38 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:19:39 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:21:58 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:21:59 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:22:00 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:22:00 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:22:01 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:22:02 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:22:02 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:22:03 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:22:03 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:28:21 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:42:02 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:43:07 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:44:18 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:44:19 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:44:20 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:44:20 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:44:21 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:44:25 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:44:25 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:44:25 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:44:25 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:55:29 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:55:29 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:55:38 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:55:38 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:55:39 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:55:40 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:55:40 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:55:40 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 12:55:40 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:02:55 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:02:55 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:03:03 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:03:07 p. m.
+Clase: frmPrincipal
+Metodo: DataTable porTraspasar()
+Detalle: Las propiedades de <target>.CONTROL_NO y <source>.CONTROL_NO est?n en conflicto: la propiedad DataType no coincide.
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:03:47 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:03:47 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:03:55 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:03:55 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:03:56 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:03:57 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:03:58 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:03:58 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:03:58 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:13:45 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:13:46 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:13:47 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:13:47 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:13:48 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:13:50 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:13:51 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:13:51 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:13:51 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:19:59 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:20:00 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:20:08 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:20:08 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:20:09 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:20:10 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:20:10 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:20:11 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:20:11 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:21:08 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:21:09 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:21:16 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:21:17 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:21:18 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:21:19 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:21:19 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:21:19 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:21:20 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:24:26 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:24:27 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:24:35 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:24:35 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:24:36 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:24:38 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:24:38 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:24:38 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:24:38 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:27:30 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:27:31 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:27:39 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:27:39 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:27:40 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:27:42 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:27:42 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:27:42 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:27:42 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:29:52 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:29:53 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:30:01 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:30:09 p. m.
+Clase: frmPrincipal
+Metodo: DataTable porTraspasar()
+Detalle: Las propiedades de <target>.CONTROL_NO y <source>.CONTROL_NO est?n en conflicto: la propiedad DataType no coincide.
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:30:22 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:30:22 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:30:24 p. m.
+Clase: frmPrincipal
+Metodo: DataTable porTraspasar()
+Detalle: Las propiedades de <target>.CONTROL_NO y <source>.CONTROL_NO est?n en conflicto: la propiedad DataType no coincide.
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:31:09 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:31:13 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:31:14 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:31:24 p. m.
+Clase: frmPrincipal
+Metodo: DataTable porTraspasar()
+Detalle: Las propiedades de <target>.CONTROL_NO y <source>.CONTROL_NO est?n en conflicto: la propiedad DataType no coincide.
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:31:37 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:31:38 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:31:40 p. m.
+Clase: frmPrincipal
+Metodo: DataTable porTraspasar()
+Detalle: Las propiedades de <target>.CONTROL_NO y <source>.CONTROL_NO est?n en conflicto: la propiedad DataType no coincide.
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:33:03 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:33:04 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:33:05 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:33:05 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:33:06 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:33:08 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:33:08 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:33:08 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:33:08 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:34:52 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:34:52 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:34:53 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:34:53 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:34:54 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:34:55 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:34:55 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:34:55 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:34:56 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:41:05 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:41:06 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:41:14 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:41:14 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:41:21 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:41:27 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:41:27 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:41:27 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 25/10/2019 01:41:27 p. m.
+Clase: CuentasPorPagar
+Metodo: obtenerMovimientos
+Detalle: A?O: 2019 MES: 1 FECHA: 2019/01/30 CONSILIADO: 1
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 09:28:39 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 09:28:46 a. m.
+Clase: frmPrincipal
+Metodo: DataTable porTraspasar()
+Detalle: NoParametro: 6. Error: Message: Procedure or function 'PRC_POLIZAS_POR_TRASPASAR_CXC' expects parameter '@SoloPosteados', which was not supplied.. InnerException: . Source: .Net SqlClient Data Provider.
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 09:29:50 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 09:59:35 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 10:00:05 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 10:01:52 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 10:02:51 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: Referencia a objeto no establecida como instancia de un objeto.
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 10:04:49 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 10:06:04 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: Referencia a objeto no establecida como instancia de un objeto.
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 10:07:48 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 10:11:53 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 10:13:25 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: Referencia a objeto no establecida como instancia de un objeto.
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 10:30:06 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 10:30:38 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: Referencia a objeto no establecida como instancia de un objeto.
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 10:33:51 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 10:37:19 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 10:41:02 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 10:46:31 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 10:51:48 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 10:56:05 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 10:57:57 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 10:59:24 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:00:34 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:01:12 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:02:10 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:03:16 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:04:37 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:07:20 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:09:11 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:20:57 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:21:38 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:23:14 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:25:18 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:27:02 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:27:56 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:29:47 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:31:06 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:36:21 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:37:07 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:37:31 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:39:38 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:43:26 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:44:12 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:45:15 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:52:41 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:53:12 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:54:11 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:55:37 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 11:56:08 a. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 12:02:19 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 12:03:34 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 12:09:39 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 12:10:28 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 12:11:00 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 12:12:42 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 12:14:17 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 12:14:52 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 12:15:43 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 12:16:09 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 12:17:21 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 12:18:54 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 12:20:12 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 12:21:39 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 12:23:08 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 12:25:28 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 12:27:22 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 12:28:58 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 12:30:43 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 12:31:51 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 12:33:41 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 12:43:31 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 12:46:11 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 12:46:42 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 12:49:55 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 01:00:51 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 01:02:18 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 01:07:59 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 01:08:19 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 01:09:12 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 01:09:45 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 01:10:15 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 01:11:05 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 01:11:52 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 01:12:37 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 01:15:21 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 01:15:55 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 01:16:39 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 01:17:36 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+
+--------- Eror del sistema ------------
+Fecha: 31/10/2019 01:20:32 p. m.
+Clase: frmPrincipal
+Metodo: Private void cargar()
+Detalle: --START DEBUG
+

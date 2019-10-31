@@ -1,0 +1,459 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{62AF44CE-BA06-4481-BCCF-11954990824F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VMXTRASPIVA</RootNamespace>
+    <AssemblyName>VKIVA</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>true</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <UpdateUrl>\\CTECH-LAP9\\Compartidos\cOnceApps\TraspasoIVA\</UpdateUrl>
+    <ProductName>Traspaso de IVA</ProductName>
+    <PublisherName>CTECH</PublisherName>
+    <SuiteName>Regionalización ERP</SuiteName>
+    <MinimumRequiredVersion>1.0.0.0</MinimumRequiredVersion>
+    <WebPage>TraspasoIVA.html</WebPage>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>17</ApplicationRevision>
+    <ApplicationVersion>1.0.0.17</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>VisualMx.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>1271C072A9E69A3B88C0EF96784FE265E78AF9DE</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>VMXTRASPIVA_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="About, Version=1.0.0.2, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\LIBRERIAS\AcercaDe\bin\Debug\About.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1TrueDBGrid.4, Version=4.0.20131.61298, Culture=neutral, PublicKeyToken=75ae3fb0e2b1e0da, processorArchitecture=MSIL" />
+    <Reference Include="ClosedXML, Version=0.94.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\ClosedXML.0.94.2\lib\net40\ClosedXML.dll</HintPath>
+    </Reference>
+    <Reference Include="ConfiguracionSR">
+      <HintPath>..\ConfiguracionSR\obj\Debug\ConfiguracionSR.dll</HintPath>
+    </Reference>
+    <Reference Include="CTECH.Acceso_a_Datos, Version=1.0.2.2, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\LIBRERIAS\AccesoDatos\src\bin\Debug\CTECH.Acceso_a_Datos.dll</HintPath>
+    </Reference>
+    <Reference Include="CTECH.Cadenas, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\LIBRERIAS\Cadenas\src\bin\Debug\CTECH.Cadenas.dll</HintPath>
+    </Reference>
+    <Reference Include="CTECH.Configuracion, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\LIBRERIAS\Security\src\CTECH.Configuracion\bin\Debug\CTECH.Configuracion.dll</HintPath>
+    </Reference>
+    <Reference Include="CTECH.Directorios, Version=3.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\LIBRERIAS\Directorios\src\bin\Debug\CTECH.Directorios.dll</HintPath>
+    </Reference>
+    <Reference Include="CTECH.Log, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\LIBRERIAS\Log\src\bin\Debug\CTECH.Log.dll</HintPath>
+    </Reference>
+    <Reference Include="CTECH.Seguridad, Version=1.0.0.2, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\LIBRERIAS\Security\src\CTECH.Seguridad\bin\Debug\CTECH.Seguridad.dll</HintPath>
+    </Reference>
+    <Reference Include="CTECHSEGREG, Version=2.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\LIBRERIAS\SeguridadRegionalizacion\Desarrollos\Trunk\SeguridadRegionalizacion\bin\Debug\CTECHSEGREG.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml, Version=2.7.2.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>packages\DocumentFormat.OpenXml.2.7.2\lib\net40\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelNumberFormat, Version=1.0.3.0, Culture=neutral, PublicKeyToken=23c6f5d73be07eca, processorArchitecture=MSIL">
+      <HintPath>packages\ExcelNumberFormat.1.0.3\lib\net20\ExcelNumberFormat.dll</HintPath>
+    </Reference>
+    <Reference Include="FastMember, Version=1.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\FastMember.1.3.0\lib\net40\FastMember.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Vbe.Interop, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Microsoft.Vbe.Interop.dll</HintPath>
+    </Reference>
+    <Reference Include="office, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\office.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UtilidadesX, Version=0.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\UtilidadesX\bin\Debug\UtilidadesX.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminCurrencyTracking.cs" />
+    <Compile Include="AdminFuncionalCurrency.cs" />
+    <Compile Include="AdminGeneralJournal.cs" />
+    <Compile Include="AdminGJ.cs" />
+    <Compile Include="APPLICATION_GLOBAL.cs" />
+    <Compile Include="ConsultaCXC.cs" />
+    <Compile Include="ConsultaCXP.cs" />
+    <Compile Include="CuentaContable.cs" />
+    <Compile Include="CuentasPorCobrar.cs" />
+    <Compile Include="CuentasPorPagar.cs" />
+    <Compile Include="DateConverter.cs" />
+    <Compile Include="ExcelFile.cs" />
+    <Compile Include="frmBuscador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscador.Designer.cs">
+      <DependentUpon>frmBuscador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCatCuentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCatCuentasRet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCatCuentasRet.Designer.cs">
+      <DependentUpon>frmCatCuentasRet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCDescuentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCRetenciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCRetenciones.Designer.cs">
+      <DependentUpon>frmCRetenciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDetalles_Mov_linea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDetalles_Mov_linea.Designer.cs">
+      <DependentUpon>frmDetalles_Mov_linea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDetalles_Mov_Cabecera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDetalles_Mov_Cabecera.Designer.cs">
+      <DependentUpon>frmDetalles_Mov_Cabecera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Detalles_Poliza.cs" />
+    <Compile Include="frmDetalles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDetalles.Designer.cs">
+      <DependentUpon>frmDetalles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPerdidaGanancia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPerdidaGanancia.Designer.cs">
+      <DependentUpon>frmPerdidaGanancia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmProcesando.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmProcesando.Designer.cs">
+      <DependentUpon>frmProcesando.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GJ.cs" />
+    <Compile Include="GJ_CURR.cs" />
+    <Compile Include="GJ_DIST.cs" />
+    <Compile Include="GJ_LINE.cs" />
+    <Compile Include="MapeoQuerySql.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Journal.cs" />
+    <Compile Include="Journal_IVA.cs" />
+    <Compile Include="MensajeTm.cs" />
+    <Compile Include="Moneda.cs" />
+    <Compile Include="MonedaRastreo.cs" />
+    <Compile Include="ParametrosGlobales.cs" />
+    <Compile Include="PerdidaGanancia.cs" />
+    <Compile Include="PeriodoContable.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Retenciones.cs" />
+    <Compile Include="TipoCambio.cs" />
+    <Compile Include="Usuario.cs" />
+    <Compile Include="UtilImpuestos.cs" />
+    <Compile Include="visualCompany.cs" />
+    <Compile Include="VMXCONTROLPOLIZA.cs" />
+    <Compile Include="VMX_CONTOLPOLIZA_LINE.cs" />
+    <EmbeddedResource Include="frmBuscador.resx">
+      <DependentUpon>frmBuscador.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCatCuentas.resx">
+      <DependentUpon>frmCatCuentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCatCuentasRet.resx">
+      <DependentUpon>frmCatCuentasRet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCDescuentos.resx">
+      <DependentUpon>frmCDescuentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCRetenciones.resx">
+      <DependentUpon>frmCRetenciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDetalles_Mov_linea.resx">
+      <DependentUpon>frmDetalles_Mov_linea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDetalles_Mov_Cabecera.resx">
+      <DependentUpon>frmDetalles_Mov_Cabecera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDetalles.resx">
+      <DependentUpon>frmDetalles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPerdidaGanancia.resx">
+      <DependentUpon>frmPerdidaGanancia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmProcesando.resx">
+      <DependentUpon>frmProcesando.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\traspaso_iva_36_36.fw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\configuracion_36_36.fw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ok_36_36.fw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\No_36_36.fw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ahorro.fw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar_36_36.fw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar_36_36.fw1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ahorro.fw1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CARGA2.png" />
+    <None Include="Resources\carga.gif" />
+    <Content Include="VisualMx.ico" />
+    <None Include="Resources\configuracion_GREEN.png" />
+    <None Include="Resources\configuracion_YELLOW.png" />
+    <None Include="Resources\configuracion_dark.png" />
+    <None Include="Resources\configuracion_green_complete1.png" />
+    <None Include="Resources\configuracion_red_complete1.png" />
+    <None Include="Resources\configuracion_yellow_complete2.png" />
+    <None Include="Resources\off-b1.png" />
+    <None Include="Resources\reload_black.png" />
+    <None Include="Resources\table_black.png" />
+    <None Include="Resources\load_black.png" />
+    <None Include="Resources\off-b.png" />
+    <None Include="Resources\excel_black.png" />
+    <None Include="Resources\question-b.png" />
+    <None Include="Resources\Tableur_black.png" />
+    <None Include="Resources\ms_2007_excel1.png" />
+    <None Include="Resources\excel_green.png" />
+    <None Include="Resources\close-icon-white1.png" />
+    <None Include="Resources\check black.png" />
+    <Content Include="visualerps.ico" />
+    <None Include="Resources\filter_cancel.png" />
+    <None Include="Resources\filter.png" />
+    <None Include="Resources\close-icon-white.png" />
+    <None Include="Resources\White_check.svg1.png" />
+    <None Include="Resources\1180012.gif" />
+    <None Include="Resources\Tableur.png" />
+    <None Include="Resources\ms_2007_excel.png" />
+    <None Include="Resources\kden-light-document-excel-128.png" />
+    <None Include="Resources\search1.png" />
+    <None Include="Resources\White_check.svg.png" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\save.png" />
+    <None Include="Resources\search.png" />
+    <None Include="Resources\info.png" />
+    <None Include="Resources\off.png" />
+    <None Include="Resources\configuracion.png" />
+    <None Include="Resources\excel.png" />
+    <None Include="Resources\load.png" />
+    <None Include="Resources\table.png" />
+    <None Include="Resources\reload.png" />
+    <None Include="Resources\background-image.jpg" />
+    <None Include="Resources\TBLINRFF.BMP" />
+    <None Include="Resources\lupa.png" />
+    <None Include="Resources\MNUSAVE.ICO" />
+    <None Include="Resources\ORDRED.png" />
+    <None Include="Resources\ORDERYELLOW.png" />
+    <None Include="Resources\ORDERGREEN.png" />
+    <None Include="Resources\bgdVisual.png" />
+    <None Include="Resources\importar_excel_36_36.fw.png" />
+    <None Include="Resources\select-all_36_36.png" />
+    <None Include="Resources\report-excel.png" />
+    <None Include="Resources\selection-select.png" />
+    <None Include="Resources\tick.png" />
+    <None Include="Resources\table-select-all.png" />
+    <None Include="Resources\gear.png" />
+    <None Include="Resources\table-export.png" />
+    <None Include="Resources\cross.png" />
+    <Content Include="ApplicationOrange.ico" />
+    <None Include="Resources\MNUEXIT.ICO" />
+    <None Include="Resources\F1HELP.ICO" />
+    <None Include="Resources\fondoBarraHerramientas.png" />
+    <None Include="Resources\MNUREFRSH.ICO" />
+    <None Include="Resources\MNUEXCEL.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

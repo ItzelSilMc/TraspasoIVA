@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CTECH.Seguridad</name>
+    </assembly>
+    <members>
+        <member name="T:CTECH.Seguridad.Business.CryptoConfigService">
+            <summary>
+            Realiza el cifrado de nodos prestablecidos (CTech) dentro de un archivo de configuración.
+            </summary>
+        </member>
+        <member name="F:CTECH.Seguridad.Business.CryptoConfigService.algoritmoCifrado">
+             <summary>
+            
+             </summary>
+        </member>
+        <member name="M:CTECH.Seguridad.Business.CryptoConfigService.#ctor">
+             <summary>
+            
+             </summary>
+        </member>
+        <member name="M:CTECH.Seguridad.Business.CryptoConfigService.#ctor(CTECH.Seguridad.Core.ICrypto)">
+             <summary>
+            
+             </summary>
+             <param name="algoritmoCifrado"></param>
+        </member>
+        <member name="M:CTECH.Seguridad.Business.CryptoConfigService.CifrarNodos(System.String)">
+             <summary>
+            
+             </summary>
+             <param name="rutaArchivo"></param>
+        </member>
+        <member name="M:CTECH.Seguridad.Business.CryptoConfigService.DescifrarNodos(System.String)">
+             <summary>
+            
+             </summary>
+             <param name="rutaArchivo"></param>
+        </member>
+        <member name="M:CTECH.Seguridad.Business.CryptoConfigService.EjecutarValidacionesNombreRutaConfiguracion(System.String)">
+             <summary>
+            
+             </summary>
+             <param name="rutaArchivo"></param>
+        </member>
+        <member name="T:CTECH.Seguridad.Criptografia">
+            <summary>
+            Proporciona servicios criptográficos.
+            </summary>
+        </member>
+        <member name="M:CTECH.Seguridad.Criptografia.encrypt(System.String)">
+            <summary>
+            Permite encriptar texto
+            </summary>
+            <param name="pText">Texto a encriptar</param>
+            <returns>Texto encriptado</returns>
+        </member>
+        <member name="M:CTECH.Seguridad.Criptografia.decrypt(System.String)">
+            <summary>
+            Desencripta el texto
+            </summary>
+            <param name="pText">Texto a desencriptar</param>
+            <returns>Texto desencriptado</returns>
+        </member>
+        <member name="T:CTECH.Seguridad.Regionalizacion.Licencia">
+            <summary>
+            Proporciona información acerca de la licencia de Regionalización del cliente. 
+            Permite conocer: Paquete, Productos, ClavePublica, ClavePrivada, FechaActivacion.
+            </summary>
+        </member>
+        <member name="P:CTECH.Seguridad.Regionalizacion.Licencia.Paquete">
+            <summary>
+            Indica el nombre del paquete de la licencia.
+            </summary>
+        </member>
+        <member name="P:CTECH.Seguridad.Regionalizacion.Licencia.Productos">
+            <summary>
+            Indica los productos contenidos en el paquete
+            </summary>
+        </member>
+        <member name="P:CTECH.Seguridad.Regionalizacion.Licencia.ClavePublica">
+            <summary>
+            Clave proporcianada al cliente por el departamento de ventas
+            </summary>
+        </member>
+        <member name="P:CTECH.Seguridad.Regionalizacion.Licencia.ClavePrivada">
+            <summary>
+            Clave compuesta para control de licencia en un solo servidor o computadora.
+            Se concatena la clave pública + (número de procesador + número de tarjeta madre)
+            </summary>
+        </member>
+        <member name="P:CTECH.Seguridad.Regionalizacion.Licencia.FechaActivacion">
+            <summary>
+            Fecha en que se activa la licencia en el servidor de CTECH
+            </summary>
+        </member>
+        <member name="P:CTECH.Seguridad.Regionalizacion.Licencia.CSName">
+            <summary>
+            Nombre del equipo donde se instala la licencia.
+            </summary>
+        </member>
+        <member name="P:CTECH.Seguridad.Regionalizacion.Licencia.Mensaje">
+            <summary>
+            Mensaje que se obtiene del proceso de validacion.
+            </summary>
+        </member>
+        <member name="P:CTECH.Seguridad.Regionalizacion.Licencia.IPLocal">
+            <summary>
+            Ip de la maquina local donde se activa la licencia
+            </summary>
+        </member>
+        <member name="P:CTECH.Seguridad.Regionalizacion.Licencia.DataBase_Name">
+            <summary>
+            Nombre de la base de datos.
+            </summary>
+        </member>
+        <member name="P:CTECH.Seguridad.Regionalizacion.Licencia.DataBase_ID">
+            <summary>
+            Número de identificación unico de la base de datos.
+            </summary>
+        </member>
+        <member name="P:CTECH.Seguridad.Regionalizacion.Licencia.ID_Licencia">
+            <summary>
+            Identificador de licencia en BD
+            </summary>
+        </member>
+        <member name="M:CTECH.Seguridad.Regionalizacion.Licencia.#ctor">
+            <summary>
+            Inicializa una nueva instancia de la clase Licencia.
+            </summary>
+        </member>
+        <member name="M:CTECH.Seguridad.Regionalizacion.Licencia.obtenerDatos">
+            <summary>
+            Obtiene los datos del archivo de configuracion en la sección de  AppSettings. 
+            Nota: Este metodo queda obsoleto Eso dijo Eduardo
+            Nota2: Utilizar en su lugar los metodos de la clase LicenciaConfig.cs
+            </summary>
+        </member>
+        <member name="M:CTECH.Seguridad.Regionalizacion.Licencia.obtenerDatos(System.String)">
+            <summary>
+            Obtiene los datos del archivo de configuracion en un directorio especifico en la sección de AppSettings.
+            </summary>
+            <param name="sArchivoConfiguracion">Ruta del archivo de configuración.</param>
+        </member>
+        <member name="M:CTECH.Seguridad.Regionalizacion.Licencia.escribirDatos(System.String)">
+            <summary>
+            Permite escribir los datos de la licencia en el archivo de configuración 
+            </summary>
+            <param name="sArchivoConfiguracion">Ruta del archivo de configuración</param>
+        </member>
+        <member name="M:CTECH.Seguridad.Regionalizacion.Licencia.existenTodasLasLlaves(System.String[])">
+            <summary>
+            Indica si el archivo de configuración tiene todas las llaves de control para ctech.
+            Paquete, Productos, ClavePublica, ClavePrivada, FechaActivacion
+            </summary>
+            <param name="pArrKeys">Arreglo con las llaves de AppSettings</param>        
+            <returns>True cuando todas las llaves existen</returns>
+        </member>
+        <member name="T:CTECH.Seguridad.Servidor">
+            <summary>
+            Obtiene infromación del equipo donde se ejecuta la aplicación. 
+            </summary>
+        </member>
+        <member name="P:CTECH.Seguridad.Servidor.Caption">
+            <summary>
+            The string includes the operating system version. For example, "Microsoft Windows XP Professional Version = 5.1.2500".
+            </summary>
+        </member>
+        <member name="P:CTECH.Seguridad.Servidor.CSName">
+            <summary>
+            Name of the scoping computer system.
+            </summary>
+        </member>
+        <member name="P:CTECH.Seguridad.Servidor.OSArchitecture">
+            <summary>
+            Architecture of the operating system, as opposed to the processor. This property can be localized.
+            </summary>
+        </member>
+        <member name="P:CTECH.Seguridad.Servidor.RegisteredUser">
+            <summary>
+            Name of the registered user of the operating system.
+            </summary>
+        </member>
+        <member name="P:CTECH.Seguridad.Servidor.SerialNumber">
+             <summary>
+             Operating system product serial identification number.
+            Example: "10497-OEM-0031416-71674"
+             </summary>
+        </member>
+        <member name="P:CTECH.Seguridad.Servidor.ProcessorId">
+            <summary>
+            server unique identifier
+            </summary>
+        </member>
+        <member name="M:CTECH.Seguridad.Servidor.#ctor">
+            <summary>
+            Inicializa una nueva instancia de la clase Server.
+            </summary>
+        </member>
+        <member name="M:CTECH.Seguridad.Servidor.obtenerInformacion">
+            <summary>
+            Obtiene la información de la computadora
+            </summary>
+        </member>
+        <member name="M:CTECH.Seguridad.Servidor.RunQuery(System.String,System.String)">
+            <summary>
+            Otiene informacion de hardware o software.
+            </summary>
+            <param name="TableName">Win32 class of information to be obtained.</param>
+            <param name="MethodName">property name from Win32 class.</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,471 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CTECH.Acceso_a_Datos</name>
+    </assembly>
+    <members>
+        <member name="T:CTECH.Acceso_a_Datos.ConexionSQL">
+            <summary>
+            Clase estatica para obtener las propiedades de conexion.
+            Nota: Es necesario setear las propiedades al inicio del programa.
+            </summary>
+        </member>
+        <member name="T:CTECH.Acceso_a_Datos.cParametro">
+            <summary>
+            Define los parametros que sen enviaran a las
+            consultas de SQL Server.
+            </summary>
+        </member>
+        <member name="T:CTECH.Acceso_a_Datos.DataTableHelper">
+            <summary>
+            Permite realizar operaciones comunes con DataTables
+            </summary>
+        </member>
+        <member name="F:CTECH.Acceso_a_Datos.DataTableHelper.sColumnKey">
+            <summary>
+            Propiedad privada, indica la columna llave del DataTable.        
+            </summary>
+        </member>
+        <member name="P:CTECH.Acceso_a_Datos.DataTableHelper._sColumnKey">
+            <summary>
+            Propiedad publica indica la columna llave del DataTable.        
+            </summary>
+        </member>
+        <member name="F:CTECH.Acceso_a_Datos.DataTableHelper.columnas_DataTable">
+            <summary>
+            Propiedad privada, contiene el nombre de la Columna y el tipo de dato.        
+            </summary>
+        </member>
+        <member name="P:CTECH.Acceso_a_Datos.DataTableHelper._Columnas_DataTable">
+            <summary>
+            Propiedad publica, contiene el nombre de la Columna y el tipo de dato.        
+            </summary>
+        </member>
+        <member name="F:CTECH.Acceso_a_Datos.DataTableHelper.arrNumero_Columna">
+            <summary>
+            Especifica el numero de columna de la cual 
+            se obtendran valores
+            </summary>
+        </member>
+        <member name="P:CTECH.Acceso_a_Datos.DataTableHelper._arrNumero_Columna">
+            <summary>
+            Especifica el numero de columna de la cual 
+            se obtendran valores
+            </summary>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.DataTableHelper.crearDataTable(System.String)">
+            <summary>
+            Permite crear un DataTable con 
+            las columnas que contiene el Dictionary columnas_DataTable
+            </summary>
+            <param name="sTableName">Nombre de la tabla.</param>
+            <returns>Un nuevo DataTable con las columnas especificadas.</returns>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.DataTableHelper.agregarFila(System.String,System.Data.DataTable)">
+            <summary>
+            Agrega un nuevo renglon en el DataTable con los datos de los
+            indices especificados en _iNumero_Columna
+            </summary>
+            <param name="sFilaActual">Fila actual del archivo CSV</param>
+            <param name="dtTablePlantilla">DataTable al que se agregan renglones</param>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.DataTableHelper.eliminarDistinct(System.Data.DataTable)">
+            <summary>
+            Permite eliminar los registro repetidos de un DataTable
+            </summary>       
+            <param name="dtTblOrigen">DataTable al que se desea eliminar los registros repetidos. 
+            Este DataTable no sufrira cambios.</param>        
+            <returns>Un DataTable sin los registros duplicados.</returns>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.DataTableHelper.eliminarRepetidos(System.Data.DataTable)">
+            <summary>
+            Permite eliminar los registro repetidos de un DataTable
+            </summary>        
+            <param name="dtTblOrigen">DataTable al que se desea eliminar los registros repetidos. 
+            Este DataTable no sufrira cambios.</param>        
+            <returns>Un DataTable sin los registros duplicados. 
+            Ejemplo: 
+            100,100,100,200,200,300,400,500.
+            Resultado: 
+            300,400,500
+            </returns>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.DataTableHelper.eliminarRepetidos(System.Data.DataTable@)">
+            <summary>
+            Permite eliminar los registro repetidos de un DataTable
+            </summary>        
+            <param name="dtTblOrigen">DataTable al que se desea eliminar los registros repetidos. 
+            Los registros seran eliminados del DataTable recibido.</param>        
+            <returns>Un DataTable sin los registros duplicados. 
+            Ejemplo: 
+            100,100,100,200,200,300,400,500.
+            Resultado: 
+            300,400,500
+            </returns>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.DataTableHelper.sonIguales(System.Object,System.Object)">
+            <summary>
+            Compara dos valores para ver si son iguales. 
+            Tambien compara con DBNULL.Value.            
+            </summary>
+            <param name="A">Primero objeto a comparar</param>
+            <param name="B">Segundo objeto a comparar</param>
+            <returns>Verdadero cuando los valores de los objetos son inguales.</returns>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.DataTableHelper.leer_Archivo_CSV(System.String,System.String)">
+            <summary>
+            Permite leer una archivo CSV
+            </summary>
+            <param name="sFileName">Nombre del archivo con la ruta</param>
+            <param name="sTableName">Nombre del DataTable</param>
+            <returns>Un DataTable con los datos del archivo</returns>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.DataTableHelper.enviar_a_Tabla_SQL(System.Data.DataTable,System.String,System.String)">
+            <summary>
+            Permite guardar un DataTable en una tabla de SQL Server
+            </summary>        
+            <param name="dtTblOrigen">DataTable que se va insertar</param>
+            <param name="sTablaDestino">Nombre de la tabla donde se insertaran los datos</param>
+            <param name="sConexion">Indica el nombre del string de conexion en el archivo de configuracion.
+            En caso de utilizar la conexion Default este parametro debera ser igual a "".</param>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.DataTableHelper.enviar_a_Tabla_SQL(System.Data.DataTable,System.String,System.Data.SqlClient.SqlConnection)">
+            <summary>
+            Permite guardar un DataTable en una tabla de SQL Server
+            </summary>        
+            <param name="dtTblOrigen">DataTable que se va insertar</param>
+            <param name="sTablaDestino">Nombre de la tabla donde se insertaran los datos</param>        
+            <param name="oConnection">Objeto SqlConnection, esta conexion debe estar abierta.</param>        
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.DataTableHelper.enviar_a_Tabla_SQL(System.Data.DataTable,System.String,System.Data.SqlClient.SqlConnection,System.Data.SqlClient.SqlTransaction)">
+            <summary>
+            Permite guardar un DataTable en una tabla de SQL Server
+            </summary>        
+            <param name="dtTblOrigen">DataTable que se va insertar</param>
+            <param name="sTablaDestino">Nombre de la tabla donde se insertaran los datos</param>        
+            <param name="oConnection">Objeto SqlConnection, esta conexion debe estar abierta.</param>
+            <param name="oTransaction">Objeto de SqlTransaction, la transaccion debe estar iniciada.</param>
+        </member>
+        <member name="T:CTECH.Acceso_a_Datos.DatosConexion">
+            <summary>
+            Permite obtener por separado cada propiedad de un string de conexion.
+            </summary>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.DatosConexion.#ctor(System.String)">
+            <summary>
+            Establece las propiedades de la clase para conexión a SQL Server
+            </summary>
+            <param name="pStringConexion">Cadena de conexión a SQL Server</param>
+        </member>
+        <member name="T:CTECH.Acceso_a_Datos.eDireccion">
+            <summary>
+            Indica si el parametro sera de entrada, salida o entrada y salida.
+            
+            Entrada: indica que el parametro se enviara al store procedure.
+            Salida: indica que el parametro sera regresado despues de la ejecucion del Stored Procedure.
+            EntradaSalida: el parametro se enviara y sera regresado.
+            </summary>
+        </member>
+        <member name="T:CTECH.Acceso_a_Datos.eTipoDato">
+            <summary>
+            Tipos de datos que se manejan para las consultas SQL Server.    
+            </summary>
+        </member>
+        <member name="F:CTECH.Acceso_a_Datos.eTipoDato.Entero">
+            <summary>
+            Conversion a: System.Int32
+            </summary>
+        </member>
+        <member name="F:CTECH.Acceso_a_Datos.eTipoDato.Caracter">
+            <summary>
+            Conversion a: System.String
+            </summary>
+        </member>
+        <member name="F:CTECH.Acceso_a_Datos.eTipoDato.Flotante">
+            <summary>
+            Conversion a: System.Double
+            </summary>
+        </member>
+        <member name="F:CTECH.Acceso_a_Datos.eTipoDato.Fecha">
+            <summary>
+            Conversion a: System.DateTime
+            </summary>
+        </member>
+        <member name="T:CTECH.Acceso_a_Datos.File_CSV">
+            <summary>
+            Permite leer archivos CSV.
+            </summary>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.File_CSV.validarExtension(System.String)">
+            <summary>
+            Verfica que la extension del archivo sea .CSV
+            </summary>
+            <param name="sFileName">Nombre del archivo</param>
+            <returns>True cuando es un archivo CSV</returns>
+        </member>
+        <member name="T:CTECH.Acceso_a_Datos.Microsoft_SQL_Server">
+            <summary>
+            Clase para interactuar con bases de datos SQL Server.
+            Permite la ejecución de consultas, transacciones y stored procedures.
+            </summary>
+        </member>
+        <member name="F:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.oConn">
+            <summary>
+            Objeto de conexion a SQL Server
+            </summary>
+        </member>
+        <member name="P:CTECH.Acceso_a_Datos.Microsoft_SQL_Server._oConn">
+            <summary>
+            Permite obtener la conexion actual.
+            </summary>
+        </member>
+        <member name="F:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.oTran">
+            <summary>
+            Objeto de Transaccion de SQL Server.
+            </summary>
+        </member>
+        <member name="P:CTECH.Acceso_a_Datos.Microsoft_SQL_Server._oTran">
+            <summary>
+            Permite obtener la transaccion actual.
+            </summary>
+        </member>
+        <member name="F:CTECH.Acceso_a_Datos.Microsoft_SQL_Server._Parametros">
+            <summary>
+            Arreglo con los parametros de la consulta
+            </summary>
+        </member>
+        <member name="P:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.arrParametros">
+            <summary>
+            Arreglo con los parametros de la consulta
+            </summary>
+        </member>
+        <member name="F:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.NombreObjeto">
+            <summary>
+            Nombre del Procedimiento almacenado
+            </summary>
+        </member>
+        <member name="P:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.sNombreProcedimiento">
+            <summary>
+            Nombre del Procedimiento almacenado
+            </summary>
+        </member>
+        <member name="F:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.sConn">
+            <summary>
+            String de conexion a la base de datos
+            </summary>
+        </member>
+        <member name="P:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.stringConexion">
+            <summary>
+            String de conexion a la base de datos
+            </summary>
+        </member>
+        <member name="F:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.sError">
+            <summary>
+            Guarda el error de una consulta.
+            </summary>
+        </member>
+        <member name="P:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.sErrorConsulta">
+            <summary>
+            Guarda el error de una consulta.
+            </summary>
+        </member>
+        <member name="F:CTECH.Acceso_a_Datos.Microsoft_SQL_Server._NumParametros">
+            <summary>
+            Cantida de parametros de la consulta
+            </summary>
+        </member>
+        <member name="P:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.intNumeroParametros">
+            <summary>
+            Cantida de parametros de la consulta
+            </summary>
+        </member>
+        <member name="F:CTECH.Acceso_a_Datos.Microsoft_SQL_Server._ValReturn">
+            <summary>
+            Contiene el resultado  de la ejecucion de un Stored Procedure
+            </summary>
+        </member>
+        <member name="P:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.intValorReturn">
+            <summary>
+            Contiene el resultado  de la ejecucion de un Stored Procedure
+            </summary>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.#ctor">
+            <summary>
+            Obtiene la cadena de conexion DEFAULT del archivo de confuguracion.
+            </summary>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.#ctor(System.String,System.Int32)">
+            <summary>
+            Obtiene la cadena de conexion DEFAULT del archivo de confuguracion.
+            </summary>
+            <param name="pNombreObjeto">Nombre del procedimiento almacendo</param>
+            <param name="pNparametros">Numero de parametros del procedimiento</param>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.#ctor(System.String)">
+            <summary>
+            Obtiene la cadena de conexion especificada.
+            </summary>
+            <param name="sConexion">Nombre de la cadena de conexion del archivo de configuracion</param>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.#ctor(System.String,System.String,System.String,System.String)">
+            <summary>
+            Constructor que recibe los parametros de conexion
+            </summary>
+            <param name="psServerName">Nombre del servidor</param>
+            <param name="pDataBase">Nombre de la base de datos</param>
+            <param name="pUser">Nombre de usuario</param>
+            <param name="pPass">Password del usuario</param>
+            <param name="timeOut">Tiempo de espera cuando el servidor no reponde</param>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.#ctor(System.String,System.Int32,System.String)">
+            <summary>
+            Se crea un objeto con la cadena de conexion espicifica.
+            </summary>
+            <param name="pNombreObjeto">Nombre del procedimiento almacendo</param>
+            <param name="pNparametros">Numero de parametros</param>
+            <param name="sConexion">Nombre de la cadena de conexion especificado en el archivo de configuracion</param>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.CrearConexion">
+            <summary>
+            Permite crear una nueva conexión a SQL Server
+            </summary>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.AbrirConexion">
+            <summary>
+            Permite abrir una conexión existente.
+            </summary>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.CerrarConexion">
+            <summary>
+            Permite cerrar una conexión existente.
+            </summary>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.DestruirConexion">
+            <summary>
+            Permite destruir la conexión SQL Server. Se liberan los recursos del objeto.
+            </summary>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.CrearTransaccion">
+            <summary>
+            Permite crear una transacción, en la conexion actual.
+            </summary>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.DestruirTransaccion">
+            <summary>
+            Permite destruir una transaccion. Se establece a null la transaccion.
+            </summary>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.TransCommit">
+            <summary>
+            Se realiza el commit a la transaccion.
+            </summary>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.TransRollback">
+            <summary>
+            Se realiza el roll back a la transaccion.
+            </summary>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.AgregarParametro(System.String,System.String,System.Int32,CTECH.Acceso_a_Datos.eTipoDato,CTECH.Acceso_a_Datos.eDireccion)">
+            <summary>
+            Permite agregar parametros a las consultas.
+            </summary>
+            <param name="pNombre">Nombre del parametro</param>
+            <param name="pValor">Valor del parametro</param>
+            <param name="pTamanio">Tamaño del parametro</param>
+            <param name="pTipoDato">Tipo de dato del parametro</param>
+            <param name="pTipoParametro">Tipo de parametro</param>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.ObtenerParametro(System.Int32)">
+            <summary>
+            Permite obetener el valor de un parametro.
+            </summary>
+            <param name="num">Se indica el número de parametro que se va obtener.</param>
+            <returns>Valor del parametro indicado.</returns>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.ObtenerParametro(System.String)">
+            <summary>
+            Permite obtener el valor de un parametro.
+            </summary>
+            <param name="pNombre">Nombre del parametro que se va obtener.</param>
+            <returns>Valor del parametro indicado.</returns>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.AsignarValor(System.Int32,System.String)">
+            <summary>
+            Permite asignar un valor al parametro indicado.
+            </summary>
+            <param name="pIparametro">Numero de parametro</param>
+            <param name="pValor">Valor del parametro</param>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.AsignarValor(System.String,System.String)">
+            <summary>
+            Permite asignar un valor al parametro indicado.
+            </summary>
+            <param name="pNombre">Nombre del parametro</param>
+            <param name="pValor">Valor del parametro</param>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.NumParametros(System.Int32)">
+            <summary>
+            Se establece el numero de parametros de la consulta.
+            Es decir el tamaño del arreglo que contien los parametros.
+            </summary>
+            <param name="pNparametros">Numero de paramtros del arreglo</param>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.ObtenerReturn">
+            <summary>
+            Se obtiene el valor Return especificado en al consulta.
+            </summary>
+            <returns>Valor Return de la consulta</returns>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.EjecutarConsulta(System.String,System.String)">
+            <summary>
+            Permite ejecutar una consulta y obtener un DataTable.
+            En caso de existir una transaccion la consulta se ejecutara
+            sobre la transaccion.
+            </summary>
+            <param name="pConsulta">Consulta SQL</param>
+            <param name="pNombreTabla">Nombre que se le asiganra al DataTable</param>
+            <returns>DataTable con el resultado de la consulta.</returns>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.EjecutarDML(System.String)">
+            <summary>
+            Ejecuta una consulta SQL Server que no regresa ningun valor.
+            </summary>
+            <param name="pDML">Consulta Data_manipulation_language. (INSERT, UPDATE, DELETE)</param>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.consultaIdentity(System.String)">
+            <summary>
+            Permite ejecutar una consulta de INSERT y obtener el IDENTITY .
+            </summary>
+            <param name="strConsulta">Consulta Insert, no es necesario agregar la consulta SCOPE_IDENTITY</param>
+            <returns>Numero insertado en la tabla</returns>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.executeScalar(System.String)">
+            <summary>
+            Permite ejecutar una consulta y obtener el resultado de la misma.
+            </summary>
+            <param name="strConsulta">Consulta que devuelve algun parametro.</param>
+            <returns>El valor de la primera columna del primer renglon.
+            Los demas valores seran ignorados.</returns>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.EjecutarSP">
+            <summary>
+            Permite ejecutar un procedimiento almacendo.
+            </summary>
+            <returns>El numero de parametro actual y -1 en caso de no existir errores</returns>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.EjecutarSP(System.Data.DataSet@,System.String)">
+            <summary>
+            Permite llenar un Dataset mediante un procedimiento almacendao.
+            </summary>
+            <param name="pDS">Nombre del DataSet que sera llenado.</param>
+            <param name="pNombreTabla">Nombre de la tabla que se agregara al DataSet</param>
+            <returns>Un DataSet con los datos del procedimiento.</returns>
+        </member>
+        <member name="M:CTECH.Acceso_a_Datos.Microsoft_SQL_Server.Dispose">
+            <summary>
+            Permite cerrar y destruir la conexion  actual.
+            Permite destruir la transaccion actual.
+            </summary>
+        </member>
+    </members>
+</doc>
